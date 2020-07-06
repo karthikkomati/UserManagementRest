@@ -4,3 +4,4 @@ request
 MySQL
 pymysql
 configparser
+gunicorn
